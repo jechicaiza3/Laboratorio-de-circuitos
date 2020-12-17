@@ -1,18 +1,25 @@
 # Laboratorio-de-circuitos
-![hoja de inicio](https://user-images.githubusercontent.com/75336529/102168825-f4369d80-3e5e-11eb-8758-3ff11ef7f550.png)
+
+|Carrera: Electrónica y automatización|Nivel: Segundo| Paralelo A|
+|---|----|---|
+|Nombres:| Jefferson Chicaiza| Erick Izurieta|
+|Tema:| Leyes de Kirchhoff||
+|Fecha de realización: |17/12/2020|Fecha de entrega: 22/12/2020|
+||Ingeniero: Darwin Alulema||
+
 
 1.-OBJETIVOS	
 
 General		
 
 Explicar y demostrar experimentalemnte la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de corrientes.
-
-Comprender el uso correcto de los distintos instrumentos y elementos electrónicos.		
+		
 
 Especificos	
 
-Aplicar el uso correcto del mult´ımetro para medir voltaje, corriente y la cantidad de resistencia de un resistor.
+Comprender el uso correcto de los distintos instrumentos y elementos electrónicos.
 
+Aplicar el uso correcto del mult´ımetro para medir voltaje, corriente y la cantidad de resistencia de un resistor.
 
 Comparar las leyes de Kirchhoff entre lo teorico y lo veridico.
 
