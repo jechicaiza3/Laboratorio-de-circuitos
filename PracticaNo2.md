@@ -64,11 +64,11 @@ Diagrama 3.1: Circuito para el analisis de mallas.
 **5.3.-** Obteniendo los valores compare con los resultados que obtuvo de forma analitica.
 
 6.-**TABULACIÓN DE DATOS**
-|MALLA|RESULTADOS ANALÍTICOS|RESULTADOS EXPERIMENTALES|RESULTADOS SIMULADOS|
+|MALLA|RESULTADOS ANALÍTICOS|RESULTADOS MULTISIM|RESULTADOS TINKERCAD |
 |---|---|---|---|
-|1| 11.45mA| | |
-|2| 2.85mA| | |
-|3| 4.88uA| | |
+|1| 11.45mA| 11.46mA|11.5mA|
+|2| 2.85mA| 2.84mA|2.85mA|
+|3| 488uA| 488uA |488uA|
 
 7.-**DESCRIPCIÓN DE PREREQUISITOS Y CONFIGURACIÓN**
 
@@ -86,7 +86,7 @@ Se requiere tener los materiales y equipos mencionados o a su vez tener una cuen
 
 9.-**CÁLCULOS**
 
-![CALCULOS](https://user-images.githubusercontent.com/75336529/104221693-3e378280-540f-11eb-8fe5-7219816cf33a.png)
+![CALCULOS](https://user-images.githubusercontent.com/75336529/104224949-b011cb00-5413-11eb-825d-d232316406f2.png)
 
 Para realizar los calculos de las mallas se utiliza  las leyes de kirchhoff  en la cual al analizar  las mallas se generan tres ecuaciones con tres incognitas las cuales se las resuelve y nos da como resultado  la corriente que sircula por cada malla.
 
@@ -108,8 +108,22 @@ https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-to
 
 12.-**ANEXOS**
 
+![circuitof](https://user-images.githubusercontent.com/75336529/104231939-a2614300-541d-11eb-8435-82cd86939e91.jpeg)
+
+Imagen 1: Diagrama implementando en la protoboard.
+
 ![multisim](https://user-images.githubusercontent.com/75336529/104221686-3c6dbf00-540f-11eb-8a01-6f94cedbe29e.png)
 
-Imagen 1: Simulador multisim.
+Imagen 2: Simulador Multisim.
 
+![corrientes mul](https://user-images.githubusercontent.com/75336529/104225152-02eb8280-5414-11eb-8bd5-26a4bdd60130.png)
 
+Imagen  3: Toma de datos de corrientes medidas en el simulardor Multisim.
+
+![simulador Tinkercad ](https://user-images.githubusercontent.com/75336529/104230471-a1c7ad00-541b-11eb-8c2f-a125426e9096.png)
+
+Imagen 4: Simulador Tinkercad.
+
+![amperaje tinkercad](https://user-images.githubusercontent.com/75336529/104230485-a55b3400-541b-11eb-8f92-870007bc8817.png)
+
+Imagen 5: Toma de datos de corrientes medidas en el simulador Tinkercad.
