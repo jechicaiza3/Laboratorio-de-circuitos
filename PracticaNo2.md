@@ -23,6 +23,20 @@ corriente eléctrica y resistencias, y analizar el posible margen de error.
 
 2.-**MARCO TEORICO**
 
+El método de la corriente de malla es otro método bien organizado para resolver circuitos (el otro es el del voltaje en los nodos). Al igual que en cualquier análisis de circuito, tenemos que resolver un sistema de 2E2E2, E ecuaciones independientes, donde EEE es el número de elementos del circuito. El método de la corriente de malla facilita el análisis, y produce un número relativamente pequeño de ecuaciones a resolver.
+
+El método de la corriente de malla se basa en la ley de voltaje de Kirchhoff (LVK).
+
+El método de la corriente de lazo es una pequeña variación del método de la corriente de malla.
+
+Lazos y mallas
+
+El método de la corriente de malla utiliza dos términos especiales: lazo y malla.
+
+![ley de kirchoff](https://user-images.githubusercontent.com/75336529/104218947-776df380-540b-11eb-99e5-7e8b42d7c406.png)
+
+Un lazo es cualquier trayectoria cerrada alrededor de un circuito. Para formar un lazo, debes comenzar en la terminal de algún componente y trazar un camino a través de elementos conectados hasta llegar nuevamente al punto de partida.
+
 3.-**DIAGRAMA**
 
 ![diagrama2](https://user-images.githubusercontent.com/75336529/104114304-eeeb3800-52d0-11eb-85ee-852eb00cabb1.png)
@@ -54,7 +68,7 @@ Diagrama 3.1: Circuito para el analisis de mallas.
 6.-**TABULACIÓN DE DATOS**
 |MALLA|RESULTADOS ANALÍTICOS|RESULTADOS EXPERIMENTALES|RESULTADOS SIMULADOS|
 |---|---|---|---|
-|1| | | |
+|1| 0.0525| 025|025
 |2| | | |
 |3| | | |
 
@@ -87,6 +101,8 @@ método práctico y muy útil para el análisis de   circuitos, y   que   no   r
 complejidad, aunque   existan   variaciones en su forma de aplicarlo.
 
 11.-**BIBLIOGRAFIA**
+
+https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
 
 12.-**ANEXOS**
 
