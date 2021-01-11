@@ -57,20 +57,18 @@ Diagrama 3.1: Circuito para el analisis de mallas.
 
 5.-**EXPLICACIÓN**
 
-**5.1.-**
+**5.1.-** Implemente el circuito en un simulador sea tinkercad o multisim.
 
-**5.2.-**
+**5.2.-** Mida el valor de cada malla y anotelo en la tabla que se muestra a continuación.
 
-**5.3.-**
-
-**5.4.-**
+**5.3.-** Obteniendo los valores compare con los resultados que obtuvo de forma analitica.
 
 6.-**TABULACIÓN DE DATOS**
 |MALLA|RESULTADOS ANALÍTICOS|RESULTADOS EXPERIMENTALES|RESULTADOS SIMULADOS|
 |---|---|---|---|
-|1| 0.0525| 025|025
-|2| | | |
-|3| | | |
+|1| 11.45mA| | |
+|2| 2.85mA| | |
+|3| 4.88uA| | |
 
 7.-**DESCRIPCIÓN DE PREREQUISITOS Y CONFIGURACIÓN**
 
@@ -88,13 +86,17 @@ Se requiere tener los materiales y equipos mencionados o a su vez tener una cuen
 
 9.-**CÁLCULOS**
 
+![CALCULOS](https://user-images.githubusercontent.com/75336529/104221693-3e378280-540f-11eb-8fe5-7219816cf33a.png)
+
+Para realizar los calculos de las mallas se utiliza  las leyes de kirchhoff  en la cual al analizar  las mallas se generan tres ecuaciones con tres incognitas las cuales se las resuelve y nos da como resultado  la corriente que sircula por cada malla.
+
 10.-**CONCLUSIONES**
 
 *Habiendo simulado y montado el circuito, se obtienen las corrientes con valores teóricos ideales, y los prácticos, dando a conocer el funcionamiento del método de análisis de malla, que solo es aplicable a circuitos planos, es decir, donde no exista cruce de ramas.
 
 *Aplicando la teoría de análisis de mallas, nos damos cuenta de que esta bien fundamentada y puede ser aplicable de modo general a cada circuito plano que se pueda presentar.
 
-*Observamos que no hay un porcentaje de error significativo entre en fundamento ideal o teórico, respecto a un experimental, puesto que los elementos usados durante la práctica, no interfieren bastante en la forma de valores.
+*Observamos que no hay un porcentaje de error significativo entre en fundamento ideal o teórico, respecto a un experimental, puesto que los elementos usados durante la práctica, no iterfieren bastante en la forma de valores.
 
 *Y   de   lo   anterior, se   concluye   que   el método   de   Análisis   de   Mallas   es   un
 método práctico y muy útil para el análisis de   circuitos, y   que   no   requiere   tanta
@@ -105,4 +107,9 @@ complejidad, aunque   existan   variaciones en su forma de aplicarlo.
 https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
 
 12.-**ANEXOS**
+
+![multisim](https://user-images.githubusercontent.com/75336529/104221686-3c6dbf00-540f-11eb-8a01-6f94cedbe29e.png)
+
+Imagen 1: Simulador multisim.
+
 
