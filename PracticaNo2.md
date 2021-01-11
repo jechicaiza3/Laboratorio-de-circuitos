@@ -86,7 +86,7 @@ Se requiere tener los materiales y equipos mencionados o a su vez tener una cuen
 
 9.-**CÁLCULOS**
 
-![CALCULOS](https://user-images.githubusercontent.com/75336529/104224949-b011cb00-5413-11eb-825d-d232316406f2.png)
+![CALCULOS](https://user-images.githubusercontent.com/75336529/104233327-b148f500-541f-11eb-916b-003e63066369.png)
 
 Para realizar los calculos de las mallas se utiliza  las leyes de kirchhoff  en la cual al analizar  las mallas se generan tres ecuaciones con tres incognitas las cuales se las resuelve y nos da como resultado  la corriente que sircula por cada malla.
 
