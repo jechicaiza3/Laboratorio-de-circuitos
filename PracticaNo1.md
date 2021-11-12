@@ -2,7 +2,7 @@
 
 |Carrera: Electrónica y automatización|Nivel: Segundo| Paralelo A|
 |---|----|---|
-|Nombres:| Jefferson Chicaiza| Erick Izurieta|
+|Nombres:| Erick Izurieta|
 |Tema:| Leyes de Kirchhoff||
 |Fecha de realización: |17/12/2020|Fecha de entrega: 22/12/2020|
 ||Ingeniero: Darwin Alulema||
